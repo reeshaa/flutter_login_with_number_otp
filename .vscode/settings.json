@@ -1,0 +1,5 @@
+{
+   "java.compile.nullAnalysis.mode": "automatic",
+   "cmake.configureOnOpen": true,
+   "cmake.sourceDirectory": "D:/job/dummy_phone_login/linux"
+}
